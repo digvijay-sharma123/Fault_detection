@@ -1,2 +1,5 @@
 # fault_detection
-fault detection in tranmission in transmission line using machine learning
+Fault detection,classification and location in  transmission line using machine learning Algorithm.
+Here i use FNN Algorithm. 
+
+
